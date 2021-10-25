@@ -4,7 +4,7 @@ The goal of this exercise is to implement a script that reads the csv document p
 
 The document provided has all the calculated values to gather the delivery price of gasoline in the ARA (Europe) to NY route, called RBOB, for 6 different months. The document contains one work week of data.
 
-Document link:
+Document link: [RBOB_data_test](https://github.com/SpartaCommodities/data_test/blob/master/RBOB_data_test.csv)
 
 The important columns of the document are:
 
