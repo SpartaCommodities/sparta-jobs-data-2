@@ -14,6 +14,7 @@ The important columns of the document are:
 - dlvd_price: The final price of delivery, the value we need to analyse and clean.
 
 After being able to read and plot the data, in a meeting with the stakeholders, they have marked which are the clear outliers in the data, and ask you to being able to detect them in real time, and remove them before are sent to the backend to plot the historics.
+
 ![plotted data for the text](https://i.imgur.com/1Mzc1bU.png)
 
 ## The work to be done for this exercise is:
